@@ -9,10 +9,10 @@
 
 *   **BSc, Information Technology** – University of Natural Sciences, HCMC (2006)
 *   **Certifications:**
-    *   Microsoft Azure Data Fundamentals (DP-900), 2025
-    *   Microsoft Azure AI Fundamentals (AI-900), 2024
-    *   Microsoft Azure Developer Associate (AZ-204), 2023
-    *   Microsoft Azure Fundamentals (AZ-900), 2022
+    *   [Microsoft Azure Data Fundamentals (DP-900), 2025](https://learn.microsoft.com/en-us/users/tuubuihuu/credentials/c6dfe8e7842bc976)
+    *   [Microsoft Azure AI Fundamentals (AI-900), 2024](https://learn.microsoft.com/en-us/users/tuubuihuu/credentials/C2DBD83FA0786DB1)
+    *   [Microsoft Azure Developer Associate (AZ-204), 2023](https://learn.microsoft.com/en-us/users/tuubuihuu/credentials/991D6C4CA12AAFFB)
+    *   [Microsoft Azure Fundamentals (AZ-900), 2022](https://learn.microsoft.com/en-us/users/tuubuihuu/credentials/480bcf282254d7d6)
 
 ## Experience
 
@@ -52,3 +52,4 @@
 ## Soft Skills
 
 *   Leadership, problem-solving, documentation, independent & team work, SQL performance tuning
+
